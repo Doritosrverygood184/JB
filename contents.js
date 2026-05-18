@@ -1,1 +1,1 @@
-[Say Failed to Fetch]
+go to https://github.com/Doritosrverygood184/JB/blob/main/content.js
